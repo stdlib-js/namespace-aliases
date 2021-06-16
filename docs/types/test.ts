@@ -24,7 +24,7 @@ import aliases = require( './index' );
 // The function returns an array of strings...
 {
 	aliases(); // $ExpectType string[]
-	aliases( '@stdlib/math/base/special' ); // $ExpectType string[]
+	aliases( '@stdlib/math-base-special' ); // $ExpectType string[]
 }
 
 // The compiler throws an error if not provided a string...

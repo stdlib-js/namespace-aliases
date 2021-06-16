@@ -79,10 +79,10 @@ tape( 'the function supports filtering the list of aliases according to a provid
 	var o2;
 	var o3;
 
-	o1 = aliases( '@stdlib/math/base/special' );
+	o1 = aliases( '@stdlib/math-base-special' );
 	t.strictEqual( isStringArray( o1 ), true, 'returns an array of strings' );
 
-	o2 = aliases( '@stdlib/math/base/special' );
+	o2 = aliases( '@stdlib/math-base-special' );
 	t.strictEqual( isStringArray( o2 ), true, 'returns an array of strings' );
 	t.notEqual( o1, o2, 'returns new reference' );
 

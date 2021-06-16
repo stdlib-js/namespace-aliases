@@ -29,7 +29,7 @@
 * // returns [...]
 *
 * @example
-* var list = aliases( '@stdlib/math/base/special' );
+* var list = aliases( '@stdlib/math-base-special' );
 * // returns [...]
 */
 declare function aliases( namespace?: string ): Array<string>;

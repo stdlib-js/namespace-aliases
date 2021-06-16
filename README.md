@@ -54,7 +54,7 @@ var list = aliases();
 To return a list of standard library aliases associated with a particular namespace, provide a `namespace` filter.
 
 ```javascript
-var list = aliases( '@stdlib/math/base/special' );
+var list = aliases( '@stdlib/math-base-special' );
 // returns [...]
 ```
 

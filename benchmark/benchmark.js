@@ -53,7 +53,7 @@ bench( pkg+'::filter', function benchmark( b ) {
 
 	b.tic();
 	for ( i = 0; i < b.iterations; i++ ) {
-		v = aliases( '@stdlib/math/base/special' );
+		v = aliases( '@stdlib/math-base-special' );
 		if ( typeof v !== 'object' ) {
 			b.fail( 'should return an object' );
 		}

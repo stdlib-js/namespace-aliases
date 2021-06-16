@@ -172,7 +172,7 @@ tape( 'the command-line interface supports filtering aliases according to a prov
 	var cmd = [
 		EXEC_PATH,
 		fpath,
-		'@stdlib/math/base/special'
+		'@stdlib/math-base-special'
 	];
 
 	exec( cmd.join( ' ' ), done );
