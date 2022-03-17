@@ -47,6 +47,7 @@
     "@stdlib/fs-read-file": "^0.0.x",
     "@stdlib/namespace-alias2pkg": "^0.0.x",
     "@stdlib/streams-node-stdout": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/string-starts-with": "^0.0.x"
   },
   "devDependencies": {
