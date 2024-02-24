@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@deno/mod.js';
+import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@v0.2.1-deno/mod.js';
 ```
 
 #### aliases( \[namespace] )
@@ -75,7 +75,7 @@ var list = aliases( '@stdlib/math-base-special' );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@deno/mod.js';
+import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@v0.2.1-deno/mod.js';
 
 var list;
 var len;
