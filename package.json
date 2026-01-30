@@ -47,7 +47,7 @@
     "@stdlib/fs-read-file": "^0.2.2",
     "@stdlib/namespace-alias2pkg": "^0.6.0",
     "@stdlib/streams-node-stdout": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/string-starts-with": "^0.2.2",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
