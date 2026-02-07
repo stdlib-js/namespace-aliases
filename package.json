@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/namespace-aliases",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Standard library aliases.",
   "license": "Apache-2.0",
   "author": {
@@ -42,24 +42,24 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/cli-ctor": "^0.2.2",
-    "@stdlib/fs-read-file": "^0.2.2",
-    "@stdlib/namespace-alias2pkg": "^0.6.0",
-    "@stdlib/streams-node-stdout": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.3",
+    "@stdlib/cli-ctor": "^0.2.3",
+    "@stdlib/fs-read-file": "^0.2.3",
+    "@stdlib/namespace-alias2pkg": "^0.6.1",
+    "@stdlib/streams-node-stdout": "^0.2.3",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/string-starts-with": "^0.2.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/assert-is-string-array": "^0.2.2",
-    "@stdlib/assert-is-windows": "^0.2.2",
+    "@stdlib/assert-is-browser": "^0.2.3",
+    "@stdlib/assert-is-string-array": "^0.2.3",
+    "@stdlib/assert-is-windows": "^0.2.3",
     "@stdlib/fs-write-file": "^0.2.2",
     "@stdlib/namespace": "^0.3.3",
-    "@stdlib/process-exec-path": "^0.2.2",
+    "@stdlib/process-exec-path": "^0.2.3",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
-    "@stdlib/regexp-eol": "^0.2.2",
+    "@stdlib/regexp-eol": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
