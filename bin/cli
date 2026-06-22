@@ -68,7 +68,7 @@ function main() {
 			.on( 'close', onClose );
 	} else {
 		// Lazily load the main export to avoid unnecessary work when not provided a namespace filter:
-		fcn = require( './../lib' );
+		fcn = require( '@stdlib/namespace-aliases' );
 		console.log( fcn( args[ 0 ] ).join( '\n' ) ); // eslint-disable-line no-console
 	}
 
